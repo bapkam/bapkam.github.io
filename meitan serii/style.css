@@ -1,0 +1,44 @@
+/*Style for animate back to top*/
+.scrollToTop{
+    
+    padding:3px; 
+    text-align:center; 
+    background-color: rgba(247,0,0,0.4) ;
+    border-radius: 50px;
+    font-weight: bold;
+    color: white;
+    text-decoration: none;
+    position:fixed;
+    bottom:30px;
+    right:10px;
+    display:none;
+    
+}
+.scrollToTop:hover{
+    text-decoration:none;
+    box-shadow: 0 8px 16px 0 rgba(237,28,36,0.6);
+    
+    background-color: #ed1c24;
+}
+
+
+
+.jumbotron{
+    background: url(img/011.jpg);
+}
+nav{
+    background: url(http://wfiles.brothersoft.com/a/amazing-flowers-background_84323-1600x1200.jpg);
+}
+
+li{
+    margin-left: 1em;
+}
+
+.card{
+    background: url(img/pink-bg.jpg);
+    opacity: 0.8;
+    color: rgba(0,0,0,1);
+}
+
+
+
